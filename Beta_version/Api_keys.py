@@ -1,0 +1,5 @@
+huobi_key = 'your key'
+huobi_secret = 'your secret key'
+okex_key = 'your key'
+okex_secret = 'your secret key'
+Passphrase = 'your passphrase'
